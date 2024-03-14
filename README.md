@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 - Python 3.x
-- Libraries: pandas, numpy, scikit-learn, seaborn, matplotlib
+- Jupter notebook or any (.ipynb) file reader 
 
 ### Installation
 1. Clone the repository
